@@ -82,4 +82,3 @@ int main()
   semctl(semid, 0, IPC_RMID, 0);
   return 0; 
 }
-
